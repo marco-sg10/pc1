@@ -17,4 +17,3 @@ public class AuthService {
         return accountService.getUserByUsername(username);
     }
 }
-https://github.com/marco-sg10/PC1_DBP.git
